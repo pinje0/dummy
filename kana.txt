@@ -1,0 +1,16 @@
+Kana
+
+Kana Hiragana :
+K: 
+- か -> Ka
+- き -> Ki
+- く -> Ku
+- け -> Ke
+- こ -> Ko
+
+M : 
+- ま -> Ma
+- み -> Mi
+- む -> Mu
+- め -> Me
+- も -> Mo
